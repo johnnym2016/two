@@ -115,11 +115,9 @@ span {
 }
 
 @media screen and (min-width: 40em) {
-    body {
-        font-size: 1.55rem;
-    }
     .time {
-        transform: translateY(-19rem);
+        margin-top: 3.5rem;
         font-size: 2.5rem;
     }
+
 }
